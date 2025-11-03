@@ -96,5 +96,3 @@ curl -XPOST "http://localhost:8080/answer" -H "Content-Type: application/json" -
 
 ---
 
-## 🧾 License
-MIT License © 2025 Arvind  
