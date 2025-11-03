@@ -18,7 +18,7 @@ Real_Time_End_to_End_LLM_Model/
 │   ├── retriever.py            # Chroma-based semantic search retriever
 │   ├── generator.py            # LLM text generation (GPT2 or HF model)
 │   ├── config.py               # Environment variables and global settings
-│   └── utils.py                # Helper functions (if needed)
+│   └── utils.py                # Helper functions 
 │
 ├── infra/
 │   ├── docker-compose.yml      # Docker Compose setup (app + Kafka + Chroma DB)
@@ -38,7 +38,7 @@ Real_Time_End_to_End_LLM_Model/
 │   └── ci.yml                  # CI/CD pipeline for testing and Docker image build
 │
 ├── requirements.txt            # Python dependencies
-└── README.md                   # (this file)
+└── README.md                   # This File
 ```
 
 ---
