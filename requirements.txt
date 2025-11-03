@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sentence-transformers
+chromadb
+transformers[torch]
+torch
+kafka-python
+pydantic
+pytest
